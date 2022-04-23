@@ -48,7 +48,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[https://api.jquery.com/text/
+https://fonts.google.com/
+https://www.canva.com/colors/color-meanings/
+https://balsamiq.com/wireframes/
+https://support.glitch.com/t/how-to-access-assets/4062
+https://www.w3schools.com/jsref/met_win_clearinterval.asp
+https://stackoverflow.com/questions/31036619/timer-goes-twice-as-fast-when-triggered-again
+https://stackoverflow.com/questions/48866312/call-a-function-after-the-settimeout-finishes-execution-javascript
+https://stackoverflow.com/questions/9507774/how-to-make-background-image-shrink-proportionally-to-fit-button-size-in-javascr
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
