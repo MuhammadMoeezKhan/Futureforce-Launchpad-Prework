@@ -48,14 +48,14 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-https://api.jquery.com/text/                    //used to understand how to get text content of DOM element
-https://fonts.google.com/                       //used to get fonts
-https://www.canva.com/colors/color-meanings/    //used to get hexcodes for colors
-https://balsamiq.com/wireframes/                //used for wireframing designs      
-https://support.glitch.com/t/how-to-access-assets/4062      //used to learn how to implement assets on glitch   
-https://www.w3schools.com/jsref/met_win_clearinterval.asp   //used to learn the setInterval() and clearInterval() methods
-https://stackoverflow.com/questions/31036619/timer-goes-twice-as-fast-when-triggered-again         //used to undertand use of clearInterval()
-https://stackoverflow.com/questions/9507774/how-to-make-background-image-shrink-proportionally-to-fit-button-size-in-javascr    //used to fit image into button
+https://api.jquery.com/text/                    //used to understand how to get text content of DOM element <br>
+https://fonts.google.com/                       //used to get fonts <br>
+https://www.canva.com/colors/color-meanings/    //used to get hexcodes for colors <br>
+https://balsamiq.com/wireframes/                //used for wireframing designs <br>
+https://support.glitch.com/t/how-to-access-assets/4062      //used to learn how to implement assets on glitch <br> 
+https://www.w3schools.com/jsref/met_win_clearinterval.asp   //used to learn the setInterval() and clearInterval() methods <br>
+https://stackoverflow.com/questions/31036619/timer-goes-twice-as-fast-when-triggered-again         //used to undertand use of clearInterval() <br>
+https://stackoverflow.com/questions/9507774/how-to-make-background-image-shrink-proportionally-to-fit-button-size-in-javascr    //used to fit image into button <br>
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement/Audio     //used to learn about JavaScript's Audio Class
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
