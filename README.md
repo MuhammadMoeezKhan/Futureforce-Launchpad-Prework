@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![x](http://g.recordit.co/j7jqy6wK10.gif)
 ![x](http://g.recordit.co/jP8UjmqGAt.gif)
-![x](http://g.recordit.co/UCiA4OHqLI.gif)
+![x](http://g.recordit.co/x4nVox7jzA.gif)
 ![x](http://g.recordit.co/7t26r0SwsD.gif)
 
 ## Reflection Questions
