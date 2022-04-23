@@ -6,7 +6,7 @@ Submitted by: Muhammad Moeez Khan
 
 Time spent: 7.5 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/absorbed-lacy-iguanodon)
 
 ## Required Functionality
 
