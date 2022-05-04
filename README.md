@@ -88,14 +88,6 @@ Pertaining to additional features to the game, it could be made more dynamic and
 
 As I progressed with the project, one functionality that I was extremely keen to add was to store the user’s profile information and high scores to eventually create a leadership board. Advanced questions revolving around backend frameworks such as Node, Express, and PHP came to mind. Further, questions regarding the best type of database for this functionality highly intrigue me, do we use SQL, NoSQL, or Cloud databases and how do we connect it without a program to increase web traffic and client repeatability. However, delving into the backend would have pushed out the scope of the project.
 
-
-
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://www.loom.com/share/fdfeaeb76db6422094835ed8a957513c)
-
-
 ## License
 
     Copyright Muhammad Moeez Khan
