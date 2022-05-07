@@ -1,4 +1,4 @@
-# Pre-work - *Memory Game*
+<!-- # Pre-work - *Memory Game*
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
@@ -10,7 +10,7 @@ Link to project: (https://glitch.com/edit/#!/absorbed-lacy-iguanodon)
 
 ## Required Functionality
 
-The following **required** functionality is complete:
+The following **required** functionality is complete: -->
 
 * [x] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
 * [x] "Start" button toggles between "Start" and "Stop" when clicked. 
